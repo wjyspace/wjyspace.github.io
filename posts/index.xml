@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on wjy-blog</title>
+    <link>https://wjyspace.github.io/posts/</link>
+    <description>Recent content in Posts on wjy-blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Jun 2021 00:02:45 +0800</lastBuildDate><atom:link href="https://wjyspace.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://wjyspace.github.io/posts/test/</link>
+      <pubDate>Thu, 03 Jun 2021 00:02:45 +0800</pubDate>
+      
+      <guid>https://wjyspace.github.io/posts/test/</guid>
+      <description>耶峰 耶康，耶勇康。啦啦啦啦</description>
+    </item>
+    
+  </channel>
+</rss>
